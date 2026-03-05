@@ -1,6 +1,6 @@
 # Django Patient Activity Tracker
 
-![Django REST framework Logo](https://www.django-rest-framework.org/img/logo.png)
+![Django REST framework Logo](https://www.django-rest-framework.org/img/logo-dark.png)
 
 ## Overview
 
